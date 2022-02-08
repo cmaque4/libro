@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "Mi primer libro"
+author: "Carlos Puma"
 date: "2022-02-07"
 site: bookdown::bookdown_site
 documentclass: book
